@@ -3,6 +3,7 @@
 AI Tutor is an intelligent learning platform that combines Generative AI, Retrieval-Augmented Generation (RAG), adaptive assessments, learner profiling, and multilingual voice interactions to deliver personalized educational experiences.
 
 🚀 Features
+
 Personalized AI tutoring
 Adaptive assessments & feedback
 Misconception detection and remediation
